@@ -1,7 +1,7 @@
 # Multi Class Segmentation LinkNet
 # [TR]
 ## Proje Hakkında
-Bu proje, **32 sınıflı (multi-class) semantik segmentasyon** problemini çözmek için hazırlanmıştır. LinkNet mimarisini kullanrak veri seti üzerinde eğitim yaptım ve eğitim sonucunda oluşan model ile tahminler yaptım.
+Bu projeyi, 32 sınıflı (multi-class) semantik segmentasyon problemini çözmek üzere tasarladım. Eğitim sürecinde LinkNet mimarisi kullandım ve modeli, veri seti üzerinde eğittim ve elde edilen sonuçlarla tahminler gerçekleştirdim.
 
 ## ⚡ Kullanılan Teknolojiler
 - PyTorch
@@ -35,7 +35,7 @@ Bu proje, **32 sınıflı (multi-class) semantik segmentasyon** problemini çöz
 
 # [EN]
 ## About the Project
-This project is designed to solve a 32-class (multi-class) semantic segmentation problem. I trained the model on the dataset using the LinkNet architecture, and used the trained model to make predictions.
+I designed this project to solve a 32-class (multi-class) semantic segmentation problem. During the training process, I used the LinkNet architecture and trained the model on the dataset, generating predictions with the obtained results.
 
 ## ⚡ Technologies Used
 - PyTorch
